@@ -1,5 +1,5 @@
 # customer-farm-app
-Customer Farm - Angular application developed with Angular 6 and Spring Boot
+Customer Farm - Spring Boot/Angular application
 
 Installation requirements:
 
@@ -24,7 +24,7 @@ Installations steps
 
 3.Navigate to folder named customer-farm-app and run: mvn clean install & spring-boot:run using Command Prompt, this will start Spring Boot
 
-4.Navigate to folder named customer-farm-angular which is the front-end part of the application
+4.Customer-farm-angular project which the front-end part of the application can be downloaded from the https://github.com/sasamaster/customer-farm-angular.git repositorium
 
 5.Use separate Command Prompt window or install Visual Studio Code terminal and type npm start to start Development server on 4200 port
 
